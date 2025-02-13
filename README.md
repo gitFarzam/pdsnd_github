@@ -28,3 +28,11 @@ in a shell envorinment, locate to the `bikeshare.py` directory then execute `pyt
 - then you will be asked for filtering by `month` , `day` or both of them, simply write `yes` for applying filter or anything else for passing without filter.
 
 - then you will have the summary statistics (if available!)
+
+### Insights:
+Inishghts can be categorized in 4 levels:
+
+1- Popular times of travel
+2- Popular stations and trip
+3- Trip duration
+4- User Info
