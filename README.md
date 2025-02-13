@@ -34,7 +34,7 @@ in a shell envorinment, locate to the `bikeshare.py` directory then execute `pyt
 ### Insights:
 Inishghts can be categorized in 4 levels:
 
-1- Popular times of travel
-2- Popular stations and trip
-3- Trip duration
-4- User Info
+- Popular times of travel
+- Popular stations and trip
+- Trip duration
+- User Info
