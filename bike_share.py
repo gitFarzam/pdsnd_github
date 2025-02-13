@@ -36,7 +36,7 @@ def get_city():
 
 # Get month
 def filter_month():
-    month_check = input('Do you want to flter by month? (yes/no): ').lower().replace(' ','')
+    month_check = input('Do you like to flter by month? (yes/no): ').lower().replace(' ','')
     month_name = None
 
     if 'yes' in month_check:
@@ -58,7 +58,7 @@ def filter_month():
 
 # Get day
 def filter_day():
-    day_check = input('Do you want to flter by day? (yes/no): ').lower().replace(' ','')
+    day_check = input('Do you like to flter by day? (yes/no): ').lower().replace(' ','')
 
     day_name = None
 
