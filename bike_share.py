@@ -7,6 +7,9 @@ import warnings
 # source: https://stackoverflow.com/questions/15777951/how-to-suppress-pandas-future-warning
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
+# welcone note!
+print('\nWelcome!\n\n')
+
 # Read dataframe
 csv_files = {
     'chicago' : 'chicago.csv',
