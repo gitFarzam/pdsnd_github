@@ -15,3 +15,7 @@ Exploring data related to bike share systems for three major cities in the Unite
 ### Credits
 Data are provided by [Motivate](https://www.motivateco.com/), a bike share system provider for many major cities in the United States, to uncover bike share usage patterns.
 
+### Requirements
+`python`
+`numpy`
+`pandas`
