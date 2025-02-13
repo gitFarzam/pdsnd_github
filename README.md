@@ -5,7 +5,9 @@ This project has been created on Feb,13 2025.
 Bike Share Analysis
 
 ### Description
-Exploring data related to bike share systems for three major cities in the United States, including New york, Chicago and Washington.
+Exploring data related to bike share systems for three major cities in the United States.
+
+this interactive shell-based program, helps you to have access to some information about bike sharing system in **New york**, **Chicago**, **Washington** cities.
 
 ### Files used
 `chicago.csv`
