@@ -5,7 +5,7 @@ This project has been created on Feb,13 2025.
 Bike Share Analysis
 
 ### Description
-Describe what your project is about and what it does
+Exploring data related to bike share systems for three major cities in the United States, including New york, Chicago and Washington.
 
 ### Files used
 Include the files used
