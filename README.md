@@ -19,3 +19,12 @@ Data are provided by [Motivate](https://www.motivateco.com/), a bike share syste
 `python`
 `numpy`
 `pandas`
+
+### Usage
+in a shell envorinment, locate to the `bikeshare.py` directory then execute `python bikeshare.py`
+
+- after execution you will be asked for typing the name of the city that you need to be analyzed, options are: `New york`, `Chicago` and `Washington` , simply just write the name of the city and press enter.
+
+- then you will be asked for filtering by `month` , `day` or both of them, simply write `yes` for applying filter or anything else for passing without filter.
+
+- then you will have the summary statistics (if available!)
