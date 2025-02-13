@@ -13,5 +13,5 @@ Exploring data related to bike share systems for three major cities in the Unite
 `washington.csv`
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Data are provided by [Motivate](https://www.motivateco.com/), a bike share system provider for many major cities in the United States, to uncover bike share usage patterns.
 
